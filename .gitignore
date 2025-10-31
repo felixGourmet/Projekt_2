@@ -1,0 +1,20 @@
+# Python cache a testy
+__pycache__/
+.pytest_cache/
+
+# Virtuální prostředí
+.venv/
+
+# Databázové nebo dočasné soubory
+*.db
+*.sqlite
+
+# Logy
+*.log
+
+# IDE / editor složky
+.vscode/
+.idea/
+
+# Konfigurační soubory
+.env
